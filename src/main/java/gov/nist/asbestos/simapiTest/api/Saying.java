@@ -1,4 +1,4 @@
-package gov.nist.asbestos.api;
+package gov.nist.asbestos.simapiTest.api;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.hibernate.validator.constraints.Length;

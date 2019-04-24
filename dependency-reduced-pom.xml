@@ -24,7 +24,7 @@
               <transformers>
                 <transformer />
                 <transformer>
-                  <mainClass>gov.nist.asbestos.HelloWorldApplication</mainClass>
+                  <mainClass>gov.nist.asbestos.simapiTest.HelloWorldApplication</mainClass>
                 </transformer>
               </transformers>
             </configuration>

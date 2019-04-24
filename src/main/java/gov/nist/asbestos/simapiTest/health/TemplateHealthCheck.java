@@ -1,4 +1,4 @@
-package gov.nist.asbestos.health;
+package gov.nist.asbestos.simapiTest.health;
 
 import com.codahale.metrics.health.HealthCheck;
 

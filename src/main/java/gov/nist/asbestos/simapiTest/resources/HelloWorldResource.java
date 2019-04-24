@@ -1,8 +1,8 @@
-package gov.nist.asbestos.resources;
+package gov.nist.asbestos.simapiTest.resources;
 
 
 import com.codahale.metrics.annotation.Timed;
-import gov.nist.asbestos.api.Saying;
+import gov.nist.asbestos.simapiTest.api.Saying;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

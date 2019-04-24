@@ -1,7 +1,7 @@
-package gov.nist.asbestos;
+package gov.nist.asbestos.simapiTest;
 
-import gov.nist.asbestos.health.TemplateHealthCheck;
-import gov.nist.asbestos.resources.HelloWorldResource;
+import gov.nist.asbestos.simapiTest.health.TemplateHealthCheck;
+import gov.nist.asbestos.simapiTest.resources.HelloWorldResource;
 import io.dropwizard.Application;
 import io.dropwizard.setup.Bootstrap;
 import io.dropwizard.setup.Environment;

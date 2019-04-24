@@ -1,4 +1,4 @@
-package gov.nist.asbestos;
+package gov.nist.asbestos.simapiTest;
 
 import io.dropwizard.Configuration;
 import com.fasterxml.jackson.annotation.JsonProperty;
