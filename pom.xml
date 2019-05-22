@@ -99,7 +99,7 @@
                     <!--</execution>-->
                 <!--</executions>-->
                 <!--<configuration>-->
-                    <!--<mainClass>gov.nist.asbestos.Main</mainClass>-->
+                    <!--<mainClass>gov.nist.http.Main</mainClass>-->
                 <!--</configuration>-->
             <!--</plugin>-->
             <!--<plugin>-->
